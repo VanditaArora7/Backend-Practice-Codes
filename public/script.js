@@ -1,0 +1,1 @@
+console.log("Hello this is a javascript file in public folder")
